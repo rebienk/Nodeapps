@@ -1,0 +1,19 @@
+{
+  "name": "notes-nodejs",
+  "version": "1.0.0",
+  "description": "The notes app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "rebien hussein",
+  "license": "ISC",
+  "dependencies": {
+    "gojs": "^1.8.35",
+    "lodash": "^4.17.11",
+    "yargs": "^12.0.5"
+  }
+}
